@@ -1,0 +1,52 @@
+incident_PK,mci_category,offence,ucr_code,ucr_ext
+1,Assault,Assault,1430,100
+2,Break and Enter,B&E,2120,200
+3,Theft Over,Theft Over,2130,210
+4,Robbery,Robbery - Business,1610,210
+5,Theft Over,Theft From Motor Vehicle Over,2132,200
+6,Break and Enter,B&E W'Intent,2120,220
+7,Assault,Assault - Force/Thrt/Impede,1430,110
+8,Assault,Assault Peace Officer,1460,100
+9,Assault,Assault With Weapon,1420,100
+10,Auto Theft,Theft Of Motor Vehicle,2135,210
+11,Assault,Assault - Resist/ Prevent Seiz,1480,100
+12,Robbery,Robbery - Other,1610,220
+13,Assault,Pointing A Firearm,1457,100
+14,Robbery,Robbery With Weapon,1610,100
+15,Assault,Aggravated Assault,1410,100
+16,Assault,Assault Bodily Harm,1420,110
+17,Robbery,Robbery - Mugging,1610,200
+18,Robbery,Robbery - Financial Institute,1610,110
+19,Break and Enter,Unlawfully In Dwelling-House,2120,210
+20,Robbery,Robbery - Swarming,1610,180
+21,Assault,Discharge Firearm With Intent,1450,120
+22,Robbery,Robbery - Vehicle Jacking,1610,140
+23,Robbery,Robbery - Purse Snatch,1610,150
+24,Assault,Crim Negligence Bodily Harm,1470,100
+25,Assault,Administering Noxious Thing,1480,110
+26,Assault,Discharge Firearm - Recklessly,1450,100
+27,Theft Over,Theft From Mail / Bag / Key,2130,200
+28,Assault,Assault Peace Officer Wpn/Cbh,1461,100
+29,Robbery,Robbery - Home Invasion,1610,130
+30,Robbery,Robbery - Taxi,1610,160
+31,Assault,Unlawfully Causing Bodily Harm,1440,100
+32,Robbery,Robbery - Armoured Car,1610,120
+33,Break and Enter,B&E Out,2120,230
+34,Theft Over,Theft Over - Shoplifting,2133,200
+35,Assault,Use Firearm / Immit Commit Off,1455,100
+36,Robbery,Robbery - Delivery Person,1610,170
+37,Theft Over,Theft - Misapprop Funds Over,2130,220
+38,Robbery,Robbery - Atm,1610,190
+39,Assault,Aggravated Assault Avails Pros,1410,110
+40,Break and Enter,B&E - To Steal Firearm,2121,200
+41,Assault,Aggravated Aslt Peace Officer,1462,100
+42,Assault,Disarming Peace/Public Officer,1460,110
+43,Theft Over,Theft Of Utilities Over,2130,230
+44,Assault,Air Gun Or Pistol: Bodily Harm,1450,110
+45,Theft Over,Theft Over - Distraction,2130,211
+46,Assault,Traps Likely Cause Bodily Harm,1475,100
+47,Theft Over,Theft Over - Bicycle,2130,215
+48,Assault,Set/Place Trap/Intend Death/Bh,1480,150
+49,Break and Enter,B&E - M/Veh To Steal Firearm,2125,200
+50,Robbery,Robbery To Steal Firearm,1611,100
+51,Assault,Hoax Terrorism Causing Bodily,1440,110
