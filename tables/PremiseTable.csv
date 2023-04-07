@@ -1,0 +1,53 @@
+premise_PK,location_type,premises_type
+1,"Apartment (Rooming House, Condo)",Apartment
+2,"Single Home, House (Attach Garage, Cottage, Mobile)",House
+3,"Open Areas (Lakes, Parks, Rivers)",Outside
+4,"Other Commercial / Corporate Places (For Profit, Warehouse, Corp. Bldg",Commercial
+5,Convenience Stores,Commercial
+6,"Parking Lots (Apt., Commercial Or Non-Commercial)",Outside
+7,Unknown,Other
+8,"Commercial Dwelling Unit (Hotel, Motel, B & B, Short Term Rental)",Commercial
+9,"Streets, Roads, Highways (Bicycle Path, Private Road)",Outside
+10,Bar / Restaurant,Commercial
+11,"Other Non Commercial / Corporate Places (Non-Profit, Gov'T, Firehall)",Other
+12,"Group Homes (Non-Profit, Halfway House, Social Agency)",Other
+13,"Hospital / Institutions / Medical Facilities (Clinic, Dentist, Morgue)",Other
+14,Schools During Un-Supervised Activity,Educational
+15,"Police / Courts (Parole Board, Probation Office)",Other
+16,"Bank And Other Financial Institutions (Money Mart, Tsx)",Commercial
+17,Jails / Detention Centres,Other
+18,Schools During Supervised Activity,Educational
+19,"Construction Site (Warehouse, Trailer, Shed)",Commercial
+20,"Religious Facilities (Synagogue, Church, Convent, Mosque)",Other
+21,Ttc Bus,Transit
+22,Universities / Colleges,Educational
+23,Ttc Subway Train,Transit
+24,Ttc Subway Station,Transit
+25,Go Train,Transit
+26,Retirement Home,Other
+27,"Gas Station (Self, Full, Attached Convenience)",Commercial
+28,Ttc Street Car,Transit
+29,Homeless Shelter / Mission,Other
+30,"Private Property Structure (Pool, Shed, Detached Garage)",Other
+31,"Dealership (Car, Motorcycle, Marine, Trailer, Etc.)",Commercial
+32,Ttc Bus Stop / Shelter / Loop,Outside
+33,Go Station,Transit
+34,Other Passenger Train,Transit
+35,Other Regional Transit System Vehicle,Transit
+36,Other Passenger Train Station,Transit
+37,Other Train Tracks,Other
+38,Ttc Subway Tunnel / Outdoor Tracks,Transit
+39,Other Train Admin Or Support Facility,Transit
+40,Go Bus,Transit
+41,Ttc Admin Or Support Facility,Transit
+42,Ttc Light Rail Vehicle,Transit
+43,Cargo Train,Other
+44,Ttc Bus Garage,Transit
+45,Ttc Light Rail Transit Station,Transit
+46,Other Train Yard,Outside
+47,Ttc Wheel Trans Vehicle,Transit
+48,Pharmacy,Other
+49,Nursing Home,Other
+50,Halfway House,Other
+51,Community Group Home,Other
+52,Ttc Support Vehicle,Transit
